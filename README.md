@@ -1,4 +1,4 @@
-# NWTA-Group-7
+# NWTB-Group-7
 Java Project (Church Registration Management System)
 
     private final String Driver = "com.mysql.cj.jdbc.Driver";
